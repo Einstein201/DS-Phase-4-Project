@@ -1,0 +1,39 @@
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Python cache files ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Temporary or hidden files ===
+*.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+
+# === Data files (if too heavy or not needed) ===
+*.zip
+*.tar
+*.gz
+*.7z
+
+# === Environment and dependencies ===
+.env
+.venv/
+venv/
+env/
+
+# === VSCode and IDE settings ===
+.vscode/
+.idea/
+
+# === Output folders ===
+reports/figures/*.bak
+reports/figures/*.tmp
+
+# === System files ===
+Thumbs.db
+desktop.ini
